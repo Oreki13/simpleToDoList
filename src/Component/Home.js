@@ -67,7 +67,7 @@ const Home = () => {
   return (
     <Fragment>
       <Navbar bg="dark" variant="dark">
-        <Navbar.Brand href="#home">{" React Bootstrap"}</Navbar.Brand>
+        <Navbar.Brand href="#home">{"To Do List App"}</Navbar.Brand>
       </Navbar>
       <Container className="justify-content-center">
         <div className="input-box">
