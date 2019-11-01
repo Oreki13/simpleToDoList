@@ -1,0 +1,43 @@
+.input {
+  margin: 5px;
+  display: flex;
+}
+.input-box {
+  /* display: flex; */
+  margin-top: 100px;
+  justify-content: center;
+  border: 1px solid rgba(161, 161, 161, 0.836);
+  border-radius: 10px;
+  padding: 10px;
+}
+.todo {
+  margin-top: 100px;
+}
+.todo-box {
+  border: 1px solid rgba(161, 161, 161, 0.836);
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+.todo-box-mini {
+  border: 1px solid rgba(161, 161, 161, 0.836);
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  margin-bottom: 8px;
+}
+.action {
+  display: flex;
+  color: blue;
+  cursor: pointer;
+}
+.action p {
+  margin-left: 5px;
+}
+
+.filter {
+  margin-top: 20px;
+  border: 1px solid rgba(161, 161, 161, 0.836);
+  border-radius: 10px;
+  padding: 10px;
+}
